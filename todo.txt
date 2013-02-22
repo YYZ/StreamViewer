@@ -1,0 +1,13 @@
+#TODO for Dual Craft V0.4
+
+2. YouTube module.
+4. Search by game.
+5. Search YouTube.
+6. Check if stream online.
+7. Add favourites.
+8. Check status of favourites.
+9. Notification for when a favourite comes online.
+
+This version brings a pretty much fully functional search function! Still no YouTube module, but I'll get going on that soon. Hoping to have some sort of 
+display sorted for showing what streams are online by the start of next week.
+

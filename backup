@@ -1,0 +1,99 @@
+import gtk,webkit,streamViewer,sys,searchBox,search,onlineStreams,streamer,searchResults
+from urllib import urlretrieve
+
+class Main():
+
+	URL = ""
+	def __init__(self):
+		self.offset = 0
+		self.win = gtk.Window()
+		self.win.set_position(gtk.WIN_POS_CENTER)
+		self.win.set_default_size(40,50)
+		self.box1 = gtk.VBox()
+
+	def singleStreamer(self, st):#used when a user searches for just a single streamer 
+		self.box1=gtk.HBox()
+		self.win.add(self.box1)
+		self.s = streamer.Streamer()
+		self.s = st
+		self.win.set_title("Search Result")
+		self.viewButton = gtk.Button("View " + self.s.getName() + "'s stream!")
+		self.favouriteButton = gtk.Button("Add "+ self.s.getName() + " to favourites")
+		self.box1.pack_start(self.viewButton)
+		self.box1.pack_start(self.favouriteButton)
+		self.viewButton.connect('clicked', lambda *a: self.viewStream(self.s.getURL()))
+		#self.viewButton.connect('clicked', self.addFavourite())
+		self.win.show_all()
+
+	def multipleStreamers(self, st, off): # Used to display more than one streamer(ie.favourites/currently online in a category/subcategory)
+		self.offset = off
+		self.box2 = gtk.VBox()
+		self.streamers = [] # streamers to be displayed
+		self.streamers = st
+		self.numberOfStreams = self.streamers.__len__()
+		self.stream = streamer.Streamer()
+		self.win.set_title("Online Streamers")	
+		self.win.add(self.box1)
+		self.table = gtk.Table(5, 3, True)
+	
+		#Setup buttons for different streamers, unfortunately no tidy way to re-use buttons, so new ones need to be made :/
+		if self.numberOfStreams ==5:
+			self.viewButton1 = gtk.Button("View " + self.streamers[0].getName() + "'s stream!")
+			self.box1.pack_start(self.viewButton1)
+			self.favouriteButton1 = gtk.Button("Add "+ self.streamers[0].getName() + " to favourites")
+			self.box1.pack_start(self.favouriteButton1) 	
+			self.viewButton2 = gtk.Button("View " + self.streamers[1].getName() + "'s stream!")
+			self.box1.pack_start(self.viewButton2)
+			self.favouriteButton2 = gtk.Button("Add "+ self.streamers[1].getName() + " to favourites")
+			self.box1.pack_start(self.favouriteButton2) 
+			self.viewButton3 = gtk.Button("View " + self.streamers[2].getName() + "'s stream!")
+			self.box1.pack_start(self.viewButton3)
+			self.favouriteButton3 = gtk.Button("Add "+ self.streamers[2].getName() + " to favourites")
+			self.box1.pack_start(self.favouriteButton3) 
+			self.viewButton4 = gtk.Button("View " + self.streamers[3].getName() + "'s stream!")
+			self.box1.pack_start(self.viewButton4)
+			self.favouriteButton4 = gtk.Button("Add "+self.streamers[3].getName() + " to favourites")
+			self.box1.pack_start(self.favouriteButton4)
+			self.viewButton5 = gtk.Button("View " + self.streamers[4].getName() + "'s stream!")
+			self.box1.pack_start(self.viewButton5)
+			self.favouriteButton5 = gtk.Button("Add "+ self.streamers[4].getName() + " to favourites")
+			self.box1.pack_start(self.favouriteButton5)
+			self.nextButton = gtk.Button("Next 5 Streams")
+			self.box1.pack_start(self.nextButton)  
+			self.nextButton.modify_bg(gtk.STATE_NORMAL, gtk.gdk.Color(65535,0,0))
+			self.viewButton1.connect('clicked', lambda *a:self.viewStream(self.streamers[0]))
+			self.viewButton2.connect('clicked', lambda *a:self.viewStream(self.streamers[1]))
+			self.viewButton3.connect('clicked', lambda *a:self.viewStream(self.streamers[2]))
+			self.viewButton4.connect('clicked', lambda *a:self.viewStream(self.streamers[3]))
+			self.viewButton5.connect('clicked', lambda *a:self.viewStream(self.streamers[4]))
+			self.nextButton.connect('clicked', lambda *a:self.reDraw(self.streamers[0]))
+			self.win.show_all()
+		else:
+			print "Not enough streams"
+
+	def viewStream(self, r):
+		s = streamer.Streamer()
+		s = r
+		viewer = streamViewer.Main(s)
+
+	def reDraw(self, s):
+		self.search=search.Main()
+		self.offset = self.offset + 5	
+		st = streamer.Streamer()
+		st = s
+		res = []
+		if st.getCategory() == "gaming":
+			res = self.search.findOnlineStreams("gaming", "", True, st.getGame(), self.offset)
+		else:
+			res = self.search.findOnlineStreams(st.getCategory(), st.getSubCategory(), False, "", self.offset)
+		
+		sorted(res, key=lambda Streamer: Streamer.currentViewers)
+		newWin = searchResults.Main()
+		newWin.multipleStreamers(res, self.offset)	
+		self.win.destroy()
+		
+		
+
+if __name__ == '__main__':	
+	sys.exit(0)
+		

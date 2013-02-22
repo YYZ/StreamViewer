@@ -1,0 +1,307 @@
+<streams>
+  <stream>
+    <subcategory>auto_racing</subcategory>
+    <broadcast_part>10</broadcast_part>
+    <featured>False</featured>
+    <channel_subscription>False</channel_subscription>
+    <audio_codec>mp3</audio_codec>
+    <embed_count>11</embed_count>
+    <id href="/stream/show/2821432656.xml">2821432656</id>
+    <category>sports</category>
+    <title>Malaysia replays and other random videos</title>
+    <video_height>356</video_height>
+    <site_count>25</site_count>
+    <embed_enabled>False</embed_enabled>
+    
+    <up_time>Mon Mar 26 11:40:09 2012</up_time>
+    <format>live</format>
+    <stream_type>live</stream_type>
+    <channel_count>40</channel_count>
+    <abuse_reported>False</abuse_reported>
+    <video_width>534</video_width>
+    <geo>US</geo>
+    <name href="/stream/show/live_user_bwass244_5.xml">live_user_bwass244_5</name>
+    <language>en</language>
+    <stream_count>36</stream_count>
+    <video_bitrate>294.6640625</video_bitrate>
+    
+<channel>
+  <subcategory>auto_racing</subcategory>
+  <category>sports</category>
+  <id>25897507</id>
+  <login>bwass244_5</login>
+  <title>F1 Legends &amp; More</title>
+  <status>Malaysia replays and other random videos</status>
+  <tags nil="true"/>
+  <producer>false</producer>
+  <category_title>Sports</category_title>
+  <subcategory_title>Auto Racing</subcategory_title>
+  <producer>false</producer>
+  <language>en</language>
+  <timezone>Antarctica/South_Pole</timezone>
+  <channel_url>http://www.justin.tv/bwass244_5</channel_url>
+  <mature nil="true"/>
+  <image_url_huge>http://static-cdn.jtvnw.net/jtv_user_pictures/bwass244_5-profile_image-aa109129412946e2-600x600.jpeg</image_url_huge>
+  <image_url_large>http://static-cdn.jtvnw.net/jtv_user_pictures/bwass244_5-profile_image-aa109129412946e2-300x300.jpeg</image_url_large>
+  <image_url_medium>http://static-cdn.jtvnw.net/jtv_user_pictures/bwass244_5-profile_image-aa109129412946e2-150x150.jpeg</image_url_medium>
+  <image_url_small>http://static-cdn.jtvnw.net/jtv_user_pictures/bwass244_5-profile_image-aa109129412946e2-70x70.jpeg</image_url_small>
+  <image_url_tiny>http://static-cdn.jtvnw.net/jtv_user_pictures/bwass244_5-profile_image-aa109129412946e2-50x50.jpeg</image_url_tiny>
+  <screen_cap_url_huge>http://static-cdn.jtvnw.net/previews/live_user_bwass244_5-630x473.jpg</screen_cap_url_huge>
+  <screen_cap_url_large>http://static-cdn.jtvnw.net/previews/live_user_bwass244_5-320x240.jpg</screen_cap_url_large>
+  <screen_cap_url_medium>http://static-cdn.jtvnw.net/previews/live_user_bwass244_5-150x113.jpg</screen_cap_url_medium>
+  <screen_cap_url_small>http://static-cdn.jtvnw.net/previews/live_user_bwass244_5-70x53.jpg</screen_cap_url_small>
+  <embed_enabled>false</embed_enabled>
+  <embed_code>    &lt;object type="application/x-shockwave-flash" height="295" width="353" id="live_embed_player_flash" data="http://www.justin.tv/widgets/live_embed_player.swf?channel=bwass244_5" bgcolor="#000000"&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;param name="movie" value="http://www.justin.tv/widgets/live_embed_player.swf" /&gt;&lt;param name="flashvars" value="auto_play=false&amp;channel=bwass244_5&amp;start_volume=25" /&gt;&lt;/object&gt;
+</embed_code>
+  <views_count>&lt;&amp; get mongo users.bwass244_5.views_count 0 &amp;&gt;</views_count>
+</channel>
+
+    <broadcaster>fme</broadcaster>
+    <video_codec>VP6</video_codec>
+    <channel_view_count>193206</channel_view_count>
+  </stream>
+  <stream>
+    <subcategory>auto_racing</subcategory>
+    <broadcast_part>9</broadcast_part>
+    <featured>False</featured>
+    <channel_subscription>False</channel_subscription>
+    <audio_codec>uncompressed</audio_codec>
+    <embed_count>4</embed_count>
+    <id href="/stream/show/2822082320.xml">2822082320</id>
+    <category>sports</category>
+    <title>Now:- F1 1993 Full Season. Next:- WTCC and 12hrs Sebring Then:- F1 World Championship Drives</title>
+    <video_height>360</video_height>
+    <site_count>22</site_count>
+    <embed_enabled>True</embed_enabled>
+    
+    <up_time>Mon Mar 26 14:16:41 2012</up_time>
+    <format>live</format>
+    <stream_type>live</stream_type>
+    <channel_count>26</channel_count>
+    <abuse_reported>False</abuse_reported>
+    <video_width>640</video_width>
+    <geo>GB</geo>
+    <name href="/stream/show/live_user_slvaaron3_1.xml">live_user_slvaaron3_1</name>
+    <language>en</language>
+    <stream_count>26</stream_count>
+    <video_bitrate>612.5078125</video_bitrate>
+    
+<channel>
+  <subcategory>auto_racing</subcategory>
+  <category>sports</category>
+  <id>23344512</id>
+  <login>slvaaron3_1</login>
+  <title>F1 Stars</title>
+  <status>Now:- F1 1993 Full Season. Next:- WTCC and 12hrs Sebring Then:- F1 World Championship Drives</status>
+  <tags nil="true"/>
+  <producer>false</producer>
+  <category_title>Sports</category_title>
+  <subcategory_title>Auto Racing</subcategory_title>
+  <producer>false</producer>
+  <language>en</language>
+  <timezone>GB</timezone>
+  <channel_url>http://www.justin.tv/slvaaron3_1</channel_url>
+  <mature nil="true"/>
+  <image_url_huge>http://static-cdn.jtvnw.net/jtv_user_pictures/slvaaron3_1-profile_image-986720684d07c86a-600x600.png</image_url_huge>
+  <image_url_large>http://static-cdn.jtvnw.net/jtv_user_pictures/slvaaron3_1-profile_image-986720684d07c86a-300x300.png</image_url_large>
+  <image_url_medium>http://static-cdn.jtvnw.net/jtv_user_pictures/slvaaron3_1-profile_image-986720684d07c86a-150x150.png</image_url_medium>
+  <image_url_small>http://static-cdn.jtvnw.net/jtv_user_pictures/slvaaron3_1-profile_image-986720684d07c86a-70x70.png</image_url_small>
+  <image_url_tiny>http://static-cdn.jtvnw.net/jtv_user_pictures/slvaaron3_1-profile_image-986720684d07c86a-50x50.png</image_url_tiny>
+  <screen_cap_url_huge>http://static-cdn.jtvnw.net/previews/live_user_slvaaron3_1-630x473.jpg</screen_cap_url_huge>
+  <screen_cap_url_large>http://static-cdn.jtvnw.net/previews/live_user_slvaaron3_1-320x240.jpg</screen_cap_url_large>
+  <screen_cap_url_medium>http://static-cdn.jtvnw.net/previews/live_user_slvaaron3_1-150x113.jpg</screen_cap_url_medium>
+  <screen_cap_url_small>http://static-cdn.jtvnw.net/previews/live_user_slvaaron3_1-70x53.jpg</screen_cap_url_small>
+  <embed_enabled>true</embed_enabled>
+  <embed_code>    &lt;object type="application/x-shockwave-flash" height="295" width="353" id="live_embed_player_flash" data="http://www.justin.tv/widgets/live_embed_player.swf?channel=slvaaron3_1" bgcolor="#000000"&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;param name="movie" value="http://www.justin.tv/widgets/live_embed_player.swf" /&gt;&lt;param name="flashvars" value="auto_play=false&amp;channel=slvaaron3_1&amp;start_volume=25" /&gt;&lt;/object&gt;
+</embed_code>
+  <views_count>&lt;&amp; get mongo users.slvaaron3_1.views_count 0 &amp;&gt;</views_count>
+</channel>
+
+    <broadcaster>fme</broadcaster>
+    <video_codec>AVC</video_codec>
+    <channel_view_count>336274</channel_view_count>
+  </stream>
+  <stream>
+    <subcategory>auto_racing</subcategory>
+    <broadcast_part>1</broadcast_part>
+    <featured>False</featured>
+    <channel_subscription>False</channel_subscription>
+    <audio_codec>aac</audio_codec>
+    <embed_count>3</embed_count>
+    <id href="/stream/show/2825123904.xml">2825123904</id>
+    <category>sports</category>
+    <title>Australia &amp; Malaysia FULL RACE (Sky Sports)</title>
+    <video_height>720</video_height>
+    <site_count>13</site_count>
+    <embed_enabled>True</embed_enabled>
+    
+    <up_time>Tue Mar 27 05:08:17 2012</up_time>
+    <format>live</format>
+    <stream_type>live</stream_type>
+    <channel_count>16</channel_count>
+    <abuse_reported>False</abuse_reported>
+    <video_width>1280</video_width>
+    <geo>GB</geo>
+    <name href="/stream/show/live_user_cubejam13.xml">live_user_cubejam13</name>
+    <language>en</language>
+    <stream_count>16</stream_count>
+    <video_bitrate>543.1796875</video_bitrate>
+    
+<channel>
+  <subcategory>auto_racing</subcategory>
+  <category>sports</category>
+  <id>29309942</id>
+  <login>cubejam13</login>
+  <title>Formula 1 HQ</title>
+  <status>Australia &amp; Malaysia FULL RACE (Sky Sports)</status>
+  <tags nil="true"/>
+  <producer>false</producer>
+  <category_title>Sports</category_title>
+  <subcategory_title>Auto Racing</subcategory_title>
+  <producer>false</producer>
+  <language>en</language>
+  <timezone>America/Los_Angeles</timezone>
+  <channel_url>http://www.justin.tv/cubejam13</channel_url>
+  <mature nil="true"/>
+  <image_url_huge>http://static-cdn.jtvnw.net/jtv_user_pictures/cubejam13-profile_image-d24dbe3f8723143f-600x600.jpeg</image_url_huge>
+  <image_url_large>http://static-cdn.jtvnw.net/jtv_user_pictures/cubejam13-profile_image-d24dbe3f8723143f-300x300.jpeg</image_url_large>
+  <image_url_medium>http://static-cdn.jtvnw.net/jtv_user_pictures/cubejam13-profile_image-d24dbe3f8723143f-150x150.jpeg</image_url_medium>
+  <image_url_small>http://static-cdn.jtvnw.net/jtv_user_pictures/cubejam13-profile_image-d24dbe3f8723143f-70x70.jpeg</image_url_small>
+  <image_url_tiny>http://static-cdn.jtvnw.net/jtv_user_pictures/cubejam13-profile_image-d24dbe3f8723143f-50x50.jpeg</image_url_tiny>
+  <screen_cap_url_huge>http://static-cdn.jtvnw.net/previews/live_user_cubejam13-630x473.jpg</screen_cap_url_huge>
+  <screen_cap_url_large>http://static-cdn.jtvnw.net/previews/live_user_cubejam13-320x240.jpg</screen_cap_url_large>
+  <screen_cap_url_medium>http://static-cdn.jtvnw.net/previews/live_user_cubejam13-150x113.jpg</screen_cap_url_medium>
+  <screen_cap_url_small>http://static-cdn.jtvnw.net/previews/live_user_cubejam13-70x53.jpg</screen_cap_url_small>
+  <embed_enabled>true</embed_enabled>
+  <embed_code>    &lt;object type="application/x-shockwave-flash" height="295" width="353" id="live_embed_player_flash" data="http://www.justin.tv/widgets/live_embed_player.swf?channel=cubejam13" bgcolor="#000000"&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;param name="movie" value="http://www.justin.tv/widgets/live_embed_player.swf" /&gt;&lt;param name="flashvars" value="auto_play=false&amp;channel=cubejam13&amp;start_volume=25" /&gt;&lt;/object&gt;
+</embed_code>
+  <views_count>&lt;&amp; get mongo users.cubejam13.views_count 0 &amp;&gt;</views_count>
+</channel>
+
+    <broadcaster>Dyyno</broadcaster>
+    <video_codec>AVC</video_codec>
+    <channel_view_count>2</channel_view_count>
+  </stream>
+  <stream>
+    <subcategory>auto_racing</subcategory>
+    <broadcast_part>6</broadcast_part>
+    <featured>False</featured>
+    <channel_subscription>False</channel_subscription>
+    <audio_codec>none</audio_codec>
+    <embed_count>1</embed_count>
+    <id href="/stream/show/2823177440.xml">2823177440</id>
+    <category>sports</category>
+    <title>LIVE view of the USGP construction site near Austin Texas. Also viewing ABIA and Downtown Austin Texas.</title>
+    <video_height>480</video_height>
+    <site_count>0</site_count>
+    <embed_enabled>True</embed_enabled>
+    
+    <up_time>Mon Mar 26 18:55:30 2012</up_time>
+    <format>live</format>
+    <stream_type>live</stream_type>
+    <channel_count>1</channel_count>
+    <abuse_reported>False</abuse_reported>
+    <video_width>720</video_width>
+    <geo>US</geo>
+    <name href="/stream/show/live_user_speedcitycam.xml">live_user_speedcitycam</name>
+    <language>en</language>
+    <stream_count>1</stream_count>
+    <video_bitrate>198.6953125</video_bitrate>
+    
+<channel>
+  <subcategory>auto_racing</subcategory>
+  <category>sports</category>
+  <id>28356795</id>
+  <login>speedcitycam</login>
+  <title>speedcitycam</title>
+  <status>LIVE view of the USGP construction site near Austin Texas. Also viewing ABIA and Downtown Austin Texas.</status>
+  <tags nil="true"/>
+  <producer>false</producer>
+  <category_title>Sports</category_title>
+  <subcategory_title>Auto Racing</subcategory_title>
+  <producer>false</producer>
+  <language>en</language>
+  <timezone>America/Los_Angeles</timezone>
+  <channel_url>http://www.justin.tv/speedcitycam</channel_url>
+  <mature nil="true"/>
+  <image_url_huge>http://static-cdn.jtvnw.net/jtv_user_pictures/speedcitycam-profile_image-50cb2f48be1c643b-600x600.jpeg</image_url_huge>
+  <image_url_large>http://static-cdn.jtvnw.net/jtv_user_pictures/speedcitycam-profile_image-50cb2f48be1c643b-300x300.jpeg</image_url_large>
+  <image_url_medium>http://static-cdn.jtvnw.net/jtv_user_pictures/speedcitycam-profile_image-50cb2f48be1c643b-150x150.jpeg</image_url_medium>
+  <image_url_small>http://static-cdn.jtvnw.net/jtv_user_pictures/speedcitycam-profile_image-50cb2f48be1c643b-70x70.jpeg</image_url_small>
+  <image_url_tiny>http://static-cdn.jtvnw.net/jtv_user_pictures/speedcitycam-profile_image-50cb2f48be1c643b-50x50.jpeg</image_url_tiny>
+  <screen_cap_url_huge>http://static-cdn.jtvnw.net/previews/live_user_speedcitycam-630x473.jpg</screen_cap_url_huge>
+  <screen_cap_url_large>http://static-cdn.jtvnw.net/previews/live_user_speedcitycam-320x240.jpg</screen_cap_url_large>
+  <screen_cap_url_medium>http://static-cdn.jtvnw.net/previews/live_user_speedcitycam-150x113.jpg</screen_cap_url_medium>
+  <screen_cap_url_small>http://static-cdn.jtvnw.net/previews/live_user_speedcitycam-70x53.jpg</screen_cap_url_small>
+  <embed_enabled>true</embed_enabled>
+  <embed_code>    &lt;object type="application/x-shockwave-flash" height="295" width="353" id="live_embed_player_flash" data="http://www.justin.tv/widgets/live_embed_player.swf?channel=speedcitycam" bgcolor="#000000"&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;param name="movie" value="http://www.justin.tv/widgets/live_embed_player.swf" /&gt;&lt;param name="flashvars" value="auto_play=false&amp;channel=speedcitycam&amp;start_volume=25" /&gt;&lt;/object&gt;
+</embed_code>
+  <views_count>&lt;&amp; get mongo users.speedcitycam.views_count 0 &amp;&gt;</views_count>
+</channel>
+
+    <broadcaster>fme</broadcaster>
+    <video_codec>AVC</video_codec>
+    <channel_view_count>14690</channel_view_count>
+  </stream>
+  <stream>
+    <subcategory>auto_racing</subcategory>
+    <broadcast_part>5</broadcast_part>
+    <featured>False</featured>
+    <channel_subscription>False</channel_subscription>
+    <audio_codec>aac</audio_codec>
+    <embed_count>0</embed_count>
+    <id href="/stream/show/2823833712.xml">2823833712</id>
+    <category>sports</category>
+    <title>24 hour Motorcycle Racing and Culture channel</title>
+    <video_height>240</video_height>
+    <site_count>0</site_count>
+    <embed_enabled>True</embed_enabled>
+    
+    <up_time>Mon Mar 26 21:50:21 2012</up_time>
+    <format>live</format>
+    <stream_type>live</stream_type>
+    <channel_count>0</channel_count>
+    <abuse_reported>False</abuse_reported>
+    <video_width>320</video_width>
+    <geo>US</geo>
+    <name href="/stream/show/live_user_eatmyink.xml">live_user_eatmyink</name>
+    <language>en</language>
+    <stream_count>0</stream_count>
+    <video_bitrate>354.5859375</video_bitrate>
+    
+<channel>
+  <subcategory>auto_racing</subcategory>
+  <category>sports</category>
+  <id>13632134</id>
+  <login>eatmyink</login>
+  <title>eatmyink</title>
+  <status>24 hour Motorcycle Racing and Culture channel</status>
+  <tags>drag gsxr hayabusa kawasaki motorcycle racing suzuki zx</tags>
+  <producer>false</producer>
+  <category_title>Sports</category_title>
+  <subcategory_title>Auto Racing</subcategory_title>
+  <producer>false</producer>
+  <language>en</language>
+  <timezone>America/New_York</timezone>
+  <channel_url>http://www.justin.tv/eatmyink</channel_url>
+  <mature>false</mature>
+  <image_url_huge>http://static-cdn.jtvnw.net/jtv_user_pictures/eatmyink-profile_image-ce96418fc3cfa9e0-600x600.jpeg</image_url_huge>
+  <image_url_large>http://static-cdn.jtvnw.net/jtv_user_pictures/eatmyink-profile_image-ce96418fc3cfa9e0-300x300.jpeg</image_url_large>
+  <image_url_medium>http://static-cdn.jtvnw.net/jtv_user_pictures/eatmyink-profile_image-ce96418fc3cfa9e0-150x150.jpeg</image_url_medium>
+  <image_url_small>http://static-cdn.jtvnw.net/jtv_user_pictures/eatmyink-profile_image-ce96418fc3cfa9e0-70x70.jpeg</image_url_small>
+  <image_url_tiny>http://static-cdn.jtvnw.net/jtv_user_pictures/eatmyink-profile_image-ce96418fc3cfa9e0-50x50.jpeg</image_url_tiny>
+  <screen_cap_url_huge>http://static-cdn.jtvnw.net/previews/live_user_eatmyink-630x473.jpg</screen_cap_url_huge>
+  <screen_cap_url_large>http://static-cdn.jtvnw.net/previews/live_user_eatmyink-320x240.jpg</screen_cap_url_large>
+  <screen_cap_url_medium>http://static-cdn.jtvnw.net/previews/live_user_eatmyink-150x113.jpg</screen_cap_url_medium>
+  <screen_cap_url_small>http://static-cdn.jtvnw.net/previews/live_user_eatmyink-70x53.jpg</screen_cap_url_small>
+  <embed_enabled>true</embed_enabled>
+  <embed_code>    &lt;object type="application/x-shockwave-flash" height="295" width="353" id="live_embed_player_flash" data="http://www.justin.tv/widgets/live_embed_player.swf?channel=eatmyink" bgcolor="#000000"&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;param name="movie" value="http://www.justin.tv/widgets/live_embed_player.swf" /&gt;&lt;param name="flashvars" value="auto_play=false&amp;channel=eatmyink&amp;start_volume=25" /&gt;&lt;/object&gt;
+</embed_code>
+  <views_count>&lt;&amp; get mongo users.eatmyink.views_count 0 &amp;&gt;</views_count>
+</channel>
+
+    <broadcaster>QuickTime/7.6.6</broadcaster>
+    <video_codec>AVC</video_codec>
+    <channel_view_count>157477</channel_view_count>
+  </stream>
+</streams>
